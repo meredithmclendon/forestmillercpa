@@ -1,24 +1,27 @@
 basic_settings:
-  site_title: Personal
+  site_title: Forest Miller CPA
   favicon_image: /images/favicon.png
 
+
 header_settings:
-  logo_image: 
+  logo_image: /images/logo_m.png
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'Services'
+      url: '/services'
+    - title: 'Resources'
+      url: '/resources/'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Tax Controversy Representation and Tax Preperation Services
 
 hero_settings:
   overlay_opacity: 0.8
@@ -66,11 +69,14 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
+  accent_color: '#3498DB'
+  m_color: '#732F2F'
+  m_alt_color: '#9E2727'
   border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
+  error_color2: '#ffffff'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'

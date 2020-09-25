@@ -249,7 +249,27 @@ a {
 .button--large {
 	padding: 15px 20px 16px;
 	font-size: 13px;
+    
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
 
+.button--aggie {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+    
+    background: $m-color;
+    border-color: $m-color;
+    border: 2px solid $m-color;
+	
+	&:hover {
+		background: $m-alt-color;
+		border-color: $m-alt-color;
+		color: $background-color;
+	}
+    
 	@include mq(tabletp) {
 		padding: 19px 40px 20px;
 		font-size: 17px;

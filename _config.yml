@@ -1,4 +1,4 @@
-site: Personal Jekyll Theme
+site: Forest Miller CPA
 
 url: 
 baseurl: 
@@ -9,10 +9,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /resources/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /projects/:slug
 
 defaults:
   -
@@ -53,5 +53,5 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/resources/page:num/"
   
