@@ -1,12 +1,13 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+title: Forest Miller, CPA
+subtitle: 
+description: 
+featured_image: /images/img1.jpg
 ---
 
-## Features
+## Experience You Can Trust
 
+![](/images/demo/demo-portrait.jpg)
 We've packed Personal full of powerful features to help showcase your work:
 
 * Beautiful, minimal design

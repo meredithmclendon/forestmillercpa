@@ -2,7 +2,7 @@
 title: Services
 subtitle: This is page with more detail about tax representation services.
 description: This is a longer description about the variety of tax representation and preperation services.
-featured_image: /images/demo/services.jpg
+featured_image: /images/img1.jpg
 ---
 
 ## Tax Controversy Representation

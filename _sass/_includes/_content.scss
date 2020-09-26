@@ -27,13 +27,13 @@
 
 .single-post {
 	position: relative;
-	margin-top: -40px;
+	margin-top: -200px;
 	background: $background-color;
 	padding: 16px 20px;
 	@include box-shadow(0, 6px, 16px, rgba(0,0,0,0.05));
 
 	@include mq(tabletp) {
-		margin-top: -60px;
+		margin-top: -200px;
 		padding: 32px 40px;
 		@include box-shadow(0, 10px, 20px, rgba(0,0,0,0.05));
 	}
