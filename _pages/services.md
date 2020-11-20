@@ -7,25 +7,13 @@ featured_image: /images/img1.jpg
 
 ## Tax Issue Advice and Representation
 
-#### Delinquent Returns
-* Take steps to resolve past years of unfiled returns
-
-#### Audits
+* Resolve past years of unfiled returns and collection issues
 * Manage and respond in a knowledgable way to an audit letter or an audit report
-
-#### Notice of Exam Letter
-* Help minimize your exposure and avoid a lengthly audit by providing appropriate and relevant information
-
-#### Amount Due
-* Learn more about what you can do today to reduce a lengthy dispute
-
-#### Offer of Compromise
-* Learn more about what you can do today to reduce a lengthy dispute
-
-#### Innocent Spouse and Equitable Relief
-* Learn more about what you can do today to reduce a lengthy dispute
-
-
+* Provide only the appropriate and relevant information to limit exposure
+* Take steps to reduce a lengthy dispute and mitigate penalties
+* Seek to qualify for an Offer and Compromise 
+* Apply for a Payment Agreement Schedule
+* Innocent Spouse and Equitable Relief issues
 
 ## Tax Preperation
 
