@@ -21,7 +21,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Tax Controversy Representation and Tax Preperation Services
+  footer_tagline: Tax Controversy Representation and Tax Preparation Services
 
 hero_settings:
   overlay_opacity: 0.8
@@ -30,7 +30,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/meqpzdln'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'

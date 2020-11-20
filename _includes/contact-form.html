@@ -1,3 +1,7 @@
+<div>
+    <h3>Please use the form below to provide your contact information and a brief description of your tax issue, and I'll get back with you shortly. You can also call me directly at <a href="tel:979-977-6001">979-888-9925</a></h3>
+</div>
+
 <div class="contact-form">
 
 	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
@@ -6,12 +10,24 @@
 			<label class="contact-form__label">Email Address *</label>
 			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
 		</div>
-
+        
 		<div class="contact-form__item">
 			<label class="contact-form__label">Name *</label>
 			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
 		</div>
 
+        <div class="contact-form__item">
+            <label class="contact-form__label">I need help with my...</label>
+        
+            <select id="taxIssue" name="taxIssue" class="contact-form__input">
+                <option value="PersonalReturn">Personal Return</option>
+                <option value="BusinessReturn">Business Return</option>
+                <option value="OtherIssue">Other</option>
+                
+            </select>
+        
+            </div>
+        
 		<div class="contact-form__item">
 			<label class="contact-form__label">Message *</label>
 			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
