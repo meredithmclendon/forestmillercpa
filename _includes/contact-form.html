@@ -1,7 +1,16 @@
+
+<h3>Contact Forest Today: </h3>
+<h4>Phone: <a href="tel:979-977-6001">979-888-9925</a><br>
+    Fax: <a href="tel:979-977-6001">979-888-9925</a></h4>
+
+<br>
 <div>
-    <h3>Call Today to Schedule a Consultation <br> Phone: <a href="tel:979-977-6001">979-888-9925</a></h3>
+    <h3>Schedule a Call:
+    <div class="home__button" style="padding-top: 30px"><a href="https://fmcpa.youcanbook.me/" class="button button--aggie" style="border-bottom: 2px solid #732F2F">Book Now</a>
+        </div></h3>
 </div>
-<h3>Contact Form</h3>
+
+<h3>Send a Message:</h3>
 <div class="contact-form">
 
 	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
@@ -22,6 +31,7 @@
             <select id="taxIssue" name="taxIssue" class="contact-form__input">
                 <option value="PersonalReturn">Personal Return</option>
                 <option value="BusinessReturn">Business Return</option>
+                <option value="TaxQuestion">Tax Question</option>
                 <option value="OtherIssue">Other</option>
                 
             </select>
@@ -40,7 +50,10 @@
 		<div class="contact-form__item">
 			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
 		</div>
-
+        <div>
+        <br>
+    
+        </div>
 	</form>
 
 </div>
