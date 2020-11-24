@@ -2,7 +2,7 @@
 title: Services
 subtitle: 
 description: Learn more about Tax Preparation and Tax Controversy Services
-featured_image: /images/img1.jpg
+featured_image: /images/img2.jpg
 ---
 
 ## Tax Issue Advice and Representation
@@ -25,4 +25,4 @@ featured_image: /images/img1.jpg
 
 
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--aggie" style="border-bottom: 2px solid #732F2F">Get Started</a>
+<div class="home__button" style="padding-top: 30px"><a href="/contact" class="button button--aggie" style="border-bottom: 2px solid #732F2F">Get Started</a>
