@@ -1,7 +1,7 @@
 site: Forest Miller CPA
 
-url: https://meredithmclendon.github.io
-baseurl: /forestmillercpa
+url: https://forestmillercpa.com
+baseurl: 
 
 collections:
   pages:
