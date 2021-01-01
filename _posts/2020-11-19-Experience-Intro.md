@@ -1,11 +1,13 @@
 ---
-title: 'Experience Matters'
+title: 'Why Experience Matters'
 date: 2020-11-19 00:00:00
-description: Why Experience Matters Part I.
+description: Why Experience Matters Series - Part 1
 featured_image: '/images/2020_11_19sq.jpg'
 ---
 
-![](/images/2020_11_19sq.jpg)
+<img src="{{ site.baseurl }}/images/2020_11_19sq.jpg" width="40%">
+
+### Why Experience Matters Series - Part 1
 
 During my 30+ years working as a Revenue Agent for the Internal Revenue Service, I noticed that some taxpayer representatives were better than others. The fundamental difference I noticed was that some representatives knew what I as an IRS Agent wanted, and others did not. An experienced representative made my audit easier and, consequently, made it less stressful for whomever I happened to be auditing. This difference was due to the experience that a representative had had previously with the IRS.
 
@@ -15,6 +17,11 @@ Next, a taxpayer representative needs to understand what is being asked by the I
 
 An experienced taxpayer representative will determine who sent an IRS Letter, what is being asked, and provide an adequate and timely response on what is at issue.
 
+Part 1 - Why Experience Matters <br />
+[Read Part 2 - Examination Letters](http://www.forestmillercpa.com/resources/examinationletters) <br />
+[Read Part 3 - Examinations of Income](http://www.forestmillercpa.com/resources/examinationsincome) <br />
+[Read Part 4 - Examinations of Expense](http://www.forestmillercpa.com/resources/examinationexpense) <br />
+[Read Part 5 - Collection Letters](http://www.forestmillercpa.com/resources/collectionletter) <br />
 
 
 
