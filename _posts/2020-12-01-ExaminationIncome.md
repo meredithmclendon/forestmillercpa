@@ -1,6 +1,6 @@
 ---
 title: 'Examination of Income'
-date: 2020-11-19 00:00:00
+date: 2020-12-01 00:00:00
 description: Why Experience Matters Series - Part 3
 featured_image: '/images/2020_11_19sq.jpg'
 ---

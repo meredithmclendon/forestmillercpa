@@ -1,6 +1,6 @@
 ---
 title: 'Examination of Expense'
-date: 2020-11-19 00:00:00
+date: 2020-12-08 00:00:00
 description: Why Experience Matters Series - Part 4
 featured_image: '/images/2020_11_19sq.jpg'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Collection Letter'
-date: 2020-11-19 00:00:00
+date: 2020-12-15 00:00:00
 description: Why Experience Matters Series - Part 5
 featured_image: '/images/2020_11_19sq.jpg'
 ---
