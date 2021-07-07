@@ -1,7 +1,7 @@
 ---
 title: 'No Stimulus Check'
 date: 2021-06-11 00:00:00
-description: No Stimulus Check
+description: When Your Stimulus Check Never Arrives
 featured_image: '/images/2020_11_19sq.jpg'
 ---
 
