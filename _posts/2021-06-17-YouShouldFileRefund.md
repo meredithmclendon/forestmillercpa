@@ -1,7 +1,7 @@
 ---
-title: 'Why You Should File Series - Part 2'
+title: 'Get Your Refund'
 date: 2021-06-17 00:00:00
-description: Why You Should File and Get Your Refund
+description: Why You Should File Series
 featured_image: '/images/2020_11_19sq.jpg'
 ---
 
