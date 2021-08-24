@@ -19,9 +19,9 @@ Therefore, even if you owe no tax and do not have enough income to meet a thresh
 
 #### Examples  
 
-1. If you are receiving Social Security and have chosen to have the Social Security Administration withhold income tax from your Social Security payments. If what you are receiving in Social Security is too small to require a return, but income tax has been withheld, you need to file a return to get it back from the IRS. <br /><br />
+1. Perhaps you are receiving Social Security and have chosen to have the Social Security Administration withhold income tax from your Social Security payments. If what you are receiving in Social Security is too small to require a return, but income tax has been withheld, you need to file a return to get it back from the IRS. <br /><br />
 2. Perhaps you worked part-time or maybe part of a year and did not earn enough money to file but have had money withheld for income tax. Again, you need to file a return to get back the money you paid into your tax account.<br /><br />
-3. Maybe you had a job that did not pay enough to require your filing a tax return. However, if you have a child or other dependent, you might want to file a return to receive Earned Income Tax Credit, Additional Child Tax Credit, or other refundable credit.<br /><br />
+3. Perhaps you had a job that did not pay enough to require your filing a tax return. However, if you have a child or other dependent, you might want to file a return to receive Earned Income Tax Credit, Additional Child Tax Credit, or other refundable credit.<br /><br />
 4. Perhaps you are a college student with a small part time job. If you are in your first four years of college and do not owe “kiddie tax” (investment income that exceeds a threshold amount which is projected to be $2,200 in 2021), you could qualify for the American Opportunity Credit. This credit is partially refundable. Therefore, if you qualify and do not file, you are leaving money in your tax account that you are due.  
 
 Remember, even when you do not need to file, you may still need to file to claim any amount in your tax account due you each year.
