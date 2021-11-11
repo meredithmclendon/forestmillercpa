@@ -2,7 +2,7 @@
 title: 'Why Experience Matters'
 date: 2020-11-19 00:00:00
 description: Why Experience Matters Series - Part 1
-featured_image: '/images/2020_11_19sq.jpg'
+featured_image: '/images/2020_11_19sq.jpg' 
 ---
 
 <img src="{{ site.baseurl }}/images/2020_11_19sq.jpg" width="40%">
