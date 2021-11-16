@@ -1,0 +1,28 @@
+---
+title: 'Points to Consider: Owing Tax but Not Filing'
+date: 2021-10-20 00:00:00
+description: What happens if you don't file a return when you owe tax?
+featured_image: '/images/2020_11_19sq.jpg' 
+---
+
+<img src="{{ site.baseurl }}/images/2020_11_19sq.jpg" width="40%">
+
+### Points to Consider:  What happens if you don't file a return when you owe tax?
+
+What happens if you do not file depends on your tax account.  As pointed out in another article [Getting to Zero](https://forestmillercpa.com/resources/gettingtozero) each year the IRS sets up a tax account for each taxpayer. Simply put, each year the IRS totals up the credits (amounts paid in) and debits (amounts due to the government) in each tax account.  After netting the total debits and credits, each taxpayer either owes tax to the government or the government owes money to the taxpayer.  In rare instances, amounts owed exactly equal amounts due, and it cancels out.  
+
+If you have not filed a return, the IRS will look on its Information Data Retrieval System to see if your tax identification number has income associated.  The IRS matches income with a person’s tax identification number.  If the IRS finds income sources, the IRS will determine whether the potential tax due based on income reported is likely to result in tax due based on how much a taxpayer has paid into a tax account for a given year.  Should the IRS believe you have a potential tax liability, and no return has been filed, you have a problem, a delinquency, and that delinquency will only get larger over time with penalties and interest added to it.
+
+If you do owe money to the IRS and have not filed a return, keep the problem as small as possible.
+
+If your tax account indicates you owe tax in a tax year, you have a potential problem.  If you don't file a return, the IRS will eventually file one for you and send you a bill for tax, penalties, and interest.  Penalties such as Failure to File and Failure to Pay are asserted on tax amounts due.  The Failure to File Penalty is 5% a month, or part of a month, up to a maximum of 25%.  The Failure to Pay Penalty is .5% a month, or part of a month, up to 25%.   The two penalties run concurrently and when they do, the Failure to File Penalty is reduced to 4.5% a month for the months the Failure to Pay Penalty is also asserted.  Therefore, the total potential penalty would be 48.5% if a return is delinquent long enough.  The IRS will also compute interest compounded daily on any tax due and not paid.  
+
+Normally, a person files a return, and the statute of limitations runs three years after the later of either the due date or the date a return is filed.  If no return is filed, then the statute of limitations does not start running and stays open for as long as the return is not filed.  If you do not file, the penalties will accrue up to the maximum, and interest will continue to compound and accrue daily.  As a Revenue Agent, I saw instances in which a taxpayer was so delinquent that the penalties and interest were greater than the original tax due.  Do not let this happen to you.  If you have not filed a return, the key is to not let the situation get out of hand.  File a return before the IRS files one for you so that you can keep the amount due as small as possible.
+
+Life happens.  Sometimes you get sick, go through a divorce, have a financial setback, or some other adverse life situation, and filing a return is at the absolute bottom of your list of priorities.  Hopefully things change, life gets better, and in the back of your mind you know you need to file a delinquent return, but you are not sure what do.  I can help you.
+
+Another reason to file a return even if you are delinquent is that there are times when a tax account indicates a person needs to file a tax return and pay tax, but the IRS does not have all the information.  The IRS will file a substitute for a return (SFR) when a return appears to be required and the tax account indicates a taxpayer owes tax, penalties, and interest.  Since the IRS may not have all the relevant information, when all the facts are gathered, the amount due issued by the IRS could turn into a refund due to a taxpayer.  When the IRS prepares an SFR, the examiner works to ensure that all the income of which the government is aware is reported.  However, the examiner does not worry too much about expenses or losses.  Consequently, when all the facts are considered, including expenses and losses, a tax deficiency turns into a refund.  If you have not filed a tax return, and it appears you owe tax, but you have expenses or losses to offset income, it is better to get all the information to the IRS on a return before the IRS files a SFR for you.  Once the SFR is filed and a notice is issued, then the taxpayer faces audit.  If you are audited, you must provide substantiation to claim any expenses and losses you want to report.  I can help you with an audit, but it is cheaper and easier to provide a delinquent return before the IRS files an SFR and sends a notice.  
+
+If you do have a tax return that is delinquent, the sooner you address the problem, the smaller the problem will be.  The sooner you file a delinquent return, the sooner you can stop penalties and interest from accruing and stop the problem from getting bigger.  
+
+If you need to file a delinquent return, [Contact Me](http://forestmillercpa.com/contact), and I can help you file the delinquent return and help you plan how to deal with the tax, penalties, and interest due.  If the IRS is already breathing down your neck with an audit notice due to an SFR and is trying to collect, I can help you with that as well.
